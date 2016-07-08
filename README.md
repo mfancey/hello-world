@@ -1,2 +1,5 @@
 # hello-world
-Practice
+
+Hi Humans!
+
+Just testing out the github tutorial.
